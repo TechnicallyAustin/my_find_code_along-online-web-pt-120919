@@ -7,6 +7,5 @@ while i < collection.length do
     return collection[i]
   end
   i += 1 
-  
 end
 end
